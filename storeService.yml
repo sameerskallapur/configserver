@@ -1,12 +1,12 @@
 server:
-  port: 8082
+  port: 9191
 spring:
   h2:
     console:
       enabled: true
   
   application:
-    name: STOREDETAILSSERVICE
+    name: storeService
         
 eureka:
   client:
