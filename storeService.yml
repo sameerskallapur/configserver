@@ -6,7 +6,7 @@ spring:
       enabled: true
   
   application:
-    name: storeService
+    name: STORE-SERVICE
         
 eureka:
   client:
